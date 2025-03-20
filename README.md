@@ -1,7 +1,7 @@
 # RIDA BATOOL  
 **Email:** [ridabatool8990@gmail.com](ridabatool8990@gmail.com)  
 **LinkedIn:** [https://www.linkedin.com/in/rida-batool](https://www.linkedin.com/in/rida-batool-a39627319/)  
-**GitHub** [https://github.com/RidaBatool004](https://github.com/RidaBatool004)   
+**GitHub:** [https://github.com/RidaBatool004](https://github.com/RidaBatool004)   
 **Mobile:** +92 3333201559  
 
 ---
@@ -32,63 +32,51 @@ _June 2021 - August 2023_
 ### **Campus Ambassador | Devsinc**  
 _February 2025 - Present_  
 
-- Streamlined data collection and reporting procedures, reducing processing time by 20%, enhancing efficiency.  
-- Implemented process improvements and automation solutions, resulting in a 15% increase in productivity.  
-- Collaborated with 3+ cross-functional teams to gather requirements, define project scopes, and ensure alignment with business objectives, fostering effective teamwork and project success.  
-- Produced 15+ comprehensive reports and presentations summarizing findings and recommendations, facilitating clear communication with stakeholders and driving actionable outcomes.  
-- Conducted in-depth market research and analysis, resulting in the identification of 10+ key trends and insights that informed strategic decision-making processes.
-- 
+- Represent Devsinc at our university and promote its mission, values, and opportunities
+- Organize and host workshops, hackathons, and webinars in collaboration with Devsinc
+- Spread awareness about Devsinc’s internship programs, hiring opportunities, and tech events
+- Act as a bridge between Devsinc and students, addressing their queries and guiding them towards relevant resources
+ 
 ### **Coordination Lead | Confiniti**  
 _February 2025 - Present_  
 
-- Streamlined data collection and reporting procedures, reducing processing time by 20%, enhancing efficiency.  
-- Implemented process improvements and automation solutions, resulting in a 15% increase in productivity.  
-- Collaborated with 3+ cross-functional teams to gather requirements, define project scopes, and ensure alignment with business objectives, fostering effective teamwork and project success.  
-- Produced 15+ comprehensive reports and presentations summarizing findings and recommendations, facilitating clear communication with stakeholders and driving actionable outcomes.  
-- Conducted in-depth market research and analysis, resulting in the identification of 10+ key trends and insights that informed strategic decision-making processes.
+- Organize and ensure smooth execution of activities
+- Coordinate between teams and the main Confiniti body
+- Communicate with industry professionals and sponsors
 
 ### **ML Intern | Green Vision**  
-_February 2025 - Present_  
+_July 2024 - August 2024_  
 
-- Streamlined data collection and reporting procedures, reducing processing time by 20%, enhancing efficiency.  
-- Implemented process improvements and automation solutions, resulting in a 15% increase in productivity.  
-- Collaborated with 3+ cross-functional teams to gather requirements, define project scopes, and ensure alignment with business objectives, fostering effective teamwork and project success.  
-- Produced 15+ comprehensive reports and presentations summarizing findings and recommendations, facilitating clear communication with stakeholders and driving actionable outcomes.  
-- Conducted in-depth market research and analysis, resulting in the identification of 10+ key trends and insights that informed strategic decision-making processes.  
+- Collect, clean, and preprocess large datasets for model training
+- Implement machine learning algorithms such as regression, classification, clustering, and deep learning models.
+- Use frameworks like Numpy, Pandas
 ---
 
 ## PROJECTS  
 
-### **Student Performance Prediction | [LINK]**  
-_December 2023 - February 2024_  
+### **How Recommendations and Reviews Shape Your Buying Choices | Probabilty and Statistics Semester Project**  
+_November 2024 - January 2025_  
 
-- Achieved a 96% accuracy rate in forecasting student academic performance by developing and deploying a machine learning model.  
-- Managed data integrity by handling missing values and encoding categorical variables, enhancing quality by 33%.  
-- Conducted experiments with both classification and regression algorithms to identify the most suitable approach.  
-- Identified and comprehended key factors influencing academic performance through thorough analysis.  
+- This research explores the impact of product recommendations and reviews on consumer purchasing decisions in the digital age.
+- It examines how consumers perceive and trust recommendations, both algorithmic (e.g., personalized suggestions) and social (e.g., peer reviews) it proves that more than 40% of the buyers find BEST SELLERS as useful recommendation.
+-  It highlights the role of reviews in shaping perceptions of product quality, brand reliability, and overall purchase intent as it reveals that 30% of the population do not buy products due to negative reviews.
 
-### **Credit Card Fraud Detection | [LINK]**  
-_September 2023 - October 2023_  
+### **Personal AI Assistant | OOP Semester Project**  
+_May 2024 - June 2024_  
 
-- Developed and fine-tuned a logistic regression-based machine learning model achieving an 87% accuracy rate in predicting credit card fraud.  
-- Minimized false positives by 16% through rigorous feature engineering and hyperparameter tuning processes.  
-- Implemented under-sampling and ensemble techniques to address class imbalance, leading to 15% improved performance.  
-- Successfully mitigated fraudulent transactions while optimizing model efficiency by 23% and accuracy by 6%.  
-
-### **Heart Disease Prediction | [LINK]**  
-_July 2023 - August 2023_  
-
-- Orchestrated the development of a Logit model to predict heart disease, achieving an impressive accuracy rate of 91% and surpassing industry benchmarks.  
-- Spearheaded the implementation of HIPAA-compliant data encryption protocols across all healthcare solutions, decreasing data breach incidents by 40% and ensuring patient privacy and security.  
-- Demonstrated commitment to ethical data practices while contributing to the development of data-driven healthcare solutions.  
-- Enhanced healthcare outcomes by 26% through accurate prediction of heart disease, positively impacting patient well-being.  
+- Created using Tkinter module, providing an intuitive and user-friendly experience.  
+- Integrated with pyttsx3 module, enabling text-to-speech functionality.  
+- Utilized SQLite (DB Browser) to store and manage questions.  
+- Capable of opening Google, YouTube, and Wikipedia (with internet connection) by importing webbrowser module
+- Implemented file handling to keep a record of search history.
+- Included Clear, Send, and History buttons for seamless interaction.   
 
 ---
 
 ## CERTIFICATES  
 
-### **Programming in Python (Meta) | [CERTIFICATE]**  
-_March 2023_  
+### **Python for Data Science (Cognitive Class) | [CERTIFICATE (https://courses.cognitiveclass.ai/certificates/efaf69da46354905aaee5d40cd780d21)**  
+_August 2024_  
 - Mastered fundamental Python syntax, proficiently utilizing control flow, loops, functions, and data structures.  
 - Acquired expertise in procedural programming paradigms and associated logical concepts, enhancing capabilities.  
 
