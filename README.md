@@ -75,7 +75,7 @@ _May 2024 - June 2024_
 
 ## CERTIFICATES  
 
-### **Python for Data Science (Cognitive Class) | [CERTIFICATE (https://courses.cognitiveclass.ai/certificates/efaf69da46354905aaee5d40cd780d21)**  
+### **Python for Data Science (Cognitive Class) | [CERTIFICATE](https://courses.cognitiveclass.ai/certificates/efaf69da46354905aaee5d40cd780d21)**  
 _August 2024_  
 - Mastered fundamental Python syntax, proficiently utilizing control flow, loops, functions, and data structures.  
 - Acquired expertise in procedural programming paradigms and associated logical concepts, enhancing capabilities.  
