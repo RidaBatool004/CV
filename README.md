@@ -1,10 +1,3 @@
-| <h1>Your Full Name</h1> | <img src="[https://example.com/your-image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fgirl-cv-icon-cartoon-vector-work-candidate-man-agreement-image441643357.html&psig=AOvVaw3hXAbKvfcmh6Jy2JHgK8AN&ust=1742570402660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCaveb6mIwDFQAAAAAdAAAAABAE)" width="120"> |
-|-------------------------|--------------------------------|
-| **Email:** [your.email@example.com](mailto:your.email@example.com) | |
-| **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yourprofile) | |
-| **GitHub:** [GitHub Profile](https://github.com/yourusername) | |
-| **Mobile:** +91 967400000 | |
-
 # RIDA BATOOL  
 **Email:** [ridabatool8990@gmail.com](ridabatool8990@gmail.com)  
 **LinkedIn:** [https://www.linkedin.com/in/rida-batool](https://www.linkedin.com/in/rida-batool-a39627319/)  
