@@ -2,7 +2,7 @@
 **Email:** [ridabatool8990@gmail.com](ridabatool8990@gmail.com)  
 **LinkedIn:** [https://www.linkedin.com/in/rida-batool](https://www.linkedin.com/in/rida-batool-a39627319/)  
 **GitHub:** [https://github.com/RidaBatool004](https://github.com/RidaBatool004)   
-**Mobile:** +92 3333201559  
+**Mobile:** +92 333 3201559  
 
 ---
 
