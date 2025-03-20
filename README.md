@@ -1,3 +1,5 @@
+| <h1>RIDA BATOOL</h1> | <img src="https://example.com/your-image.jpg" width="120"> |
+|-------------------------|--------------------------------|
 # RIDA BATOOL  
 **Email:** [ridabatool8990@gmail.com](ridabatool8990@gmail.com)  
 **LinkedIn:** [https://www.linkedin.com/in/rida-batool](https://www.linkedin.com/in/rida-batool-a39627319/)  
