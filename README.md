@@ -61,7 +61,7 @@ _November 2024 - January 2025_
 - It examines how consumers perceive and trust recommendations, both algorithmic (e.g., personalized suggestions) and social (e.g., peer reviews) it proves that more than 40% of the buyers find BEST SELLERS as useful recommendation.
 -  It highlights the role of reviews in shaping perceptions of product quality, brand reliability, and overall purchase intent as it reveals that 30% of the population do not buy products due to negative reviews.
 
-### **Personal AI Assistant | OOP Semester Project**  
+### **Personal AI Assistant | OOP Semester Project | [LINK](https://github.com/RidaBatool004/Personal-Assistant)**  
 _May 2024 - June 2024_  
 
 - Created using Tkinter module, providing an intuitive and user-friendly experience.  
@@ -79,13 +79,8 @@ _May 2024 - June 2024_
 _August 2024_  
 - Mastered fundamental Python syntax, proficiently utilizing control flow, loops, functions, and data structures.  
 - Acquired expertise in procedural programming paradigms and associated logical concepts, enhancing capabilities.  
-
-### **Introduction to Data Analyst (IBM) | [CERTIFICATE]**  
-_March 2023_  
-- Learned about the data ecosystem, including the ETL process and big data basics.  
-- Mastered data gathering, identification, and cleaning for analysis preparation.  
-
-### **Foundations: Data, Data, Everywhere (Google) | [CERTIFICATE]**  
+  
+### **Foundations: Data, Data, Everywhere (Google) | [CERTIFICATE](https://www.credly.com/go/D3o8QNX9)**  
 _September 2024_  
 - Developed a comprehensive understanding of the data life cycle and various stages involved in data analysis.  
 - Introduced to diverse applications designed to streamline and optimize the data analysis journey, enhancing efficiency and accuracy.  
