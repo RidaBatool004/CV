@@ -1,5 +1,10 @@
-| <h1>RIDA BATOOL</h1> | <img src="https://example.com/your-image.jpg" width="120"> |
+| <h1>Your Full Name</h1> | <img src="https://example.com/your-image.jpg" width="120"> |
 |-------------------------|--------------------------------|
+| **Email:** [your.email@example.com](mailto:your.email@example.com) | |
+| **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yourprofile) | |
+| **GitHub:** [GitHub Profile](https://github.com/yourusername) | |
+| **Mobile:** +91 967400000 | |
+
 # RIDA BATOOL  
 **Email:** [ridabatool8990@gmail.com](ridabatool8990@gmail.com)  
 **LinkedIn:** [https://www.linkedin.com/in/rida-batool](https://www.linkedin.com/in/rida-batool-a39627319/)  
