@@ -1,7 +1,7 @@
 # RIDA BATOOL  
-**Email:** [](ridabatool8990@gmail.com)  
-**LinkedIn:**  [](https://www.linkedin.com/in/rida-batool-a39627319/)
-**GitHub** [](https://github.com/RidaBatool004) 
+**Email:** [ridabatool8990@gmail.com](ridabatool8990@gmail.com)  
+**LinkedIn:**  [https://www.linkedin.com/in/rida-batool](https://www.linkedin.com/in/rida-batool-a39627319/)
+**GitHub** [https://github.com/RidaBatool004](https://github.com/RidaBatool004) 
 **Mobile:** +92 3333201559  
 
 ---
@@ -9,7 +9,7 @@
 ## EDUCATION  
 
 ### The University of the Punjab, Lahore (FCIT)
-**Bachelors of Data Science**  (CGPA: 3.75) 
+**Bachelors of Data Science** (CGPA: 3.75) 
 _September 2023 - June 2027_  
 
 ### PAEC Model College for Girls, Chashma 
@@ -29,7 +29,7 @@ _June 2021 - August 2023_
 
 ## WORK EXPERIENCE  
 
-### **Campus Ambassador | Devsinc **  
+### **Campus Ambassador | Devsinc**  
 _February 2025 - Present_  
 
 - Streamlined data collection and reporting procedures, reducing processing time by 20%, enhancing efficiency.  
@@ -38,7 +38,7 @@ _February 2025 - Present_
 - Produced 15+ comprehensive reports and presentations summarizing findings and recommendations, facilitating clear communication with stakeholders and driving actionable outcomes.  
 - Conducted in-depth market research and analysis, resulting in the identification of 10+ key trends and insights that informed strategic decision-making processes.
 - 
-### **Coordination Lead | Confiniti **  
+### **Coordination Lead | Confiniti**  
 _February 2025 - Present_  
 
 - Streamlined data collection and reporting procedures, reducing processing time by 20%, enhancing efficiency.  
@@ -47,7 +47,7 @@ _February 2025 - Present_
 - Produced 15+ comprehensive reports and presentations summarizing findings and recommendations, facilitating clear communication with stakeholders and driving actionable outcomes.  
 - Conducted in-depth market research and analysis, resulting in the identification of 10+ key trends and insights that informed strategic decision-making processes.
 
-### **ML Intern | Green Vision **  
+### **ML Intern | Green Vision**  
 _February 2025 - Present_  
 
 - Streamlined data collection and reporting procedures, reducing processing time by 20%, enhancing efficiency.  
