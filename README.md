@@ -27,7 +27,15 @@ _June 2021 - August 2023_
 
 ---
 
-## WORK EXPERIENCE  
+## WORK EXPERIENCE 
+
+### **Teaching Assistant — Probability and Statistics | FCIT,University of the Punjab**  
+_February 2025 - Present_  
+
+- Help students build intuition around probability models, hypothesis testing, and data interpretation.
+- Role also includes maintaining grade records, evaluating coursework, and helping students improve their analytical skills using tools like Excel,MATLAB and Python
+- Assist in designing assignments, conducting tutorials, and resolving queries
+- This role has sharpened my communication skills and reinforced my own understanding of statistical foundations.
 
 ### **Campus Ambassador | Devsinc**  
 _February 2025 - Present_  
