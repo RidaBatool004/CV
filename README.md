@@ -1,4 +1,4 @@
-# --RIDA-- ==BATOOL==  
+# RIDA BATOOL 
 **Email:** [ridabatool8990@gmail.com](ridabatool8990@gmail.com)  
 **LinkedIn:** [https://www.linkedin.com/in/rida-batool](https://www.linkedin.com/in/rida-batool-a39627319/)  
 **GitHub:** [https://github.com/RidaBatool004](https://github.com/RidaBatool004)   
@@ -20,7 +20,7 @@ _June 2021 - August 2023_
 
 ## SKILLS SUMMARY  
 
-- **Languages:** Python, SQL, MASM, C++   
+- **Languages:** Python, ~~SQL~~, MASM, C++   
 - **Tools:** Power BI, Excel, PowerPoint, SQLite  
 - **Platforms:** PyCharm, Jupyter Notebook, Visual Studio Code, DOSBox
 - **Soft Skills:** Team Management, Excellent Communication, Time Management  
