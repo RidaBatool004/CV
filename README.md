@@ -20,7 +20,7 @@ _June 2021 - August 2023_
 
 ## SKILLS SUMMARY  
 
-- **Languages:** Python ==highlighted_word== , SQL, MASM, C++   
+- **Languages:** Python, SQL, MASM, C++   
 - **Tools:** Power BI, Excel, PowerPoint, SQLite  
 - **Platforms:** PyCharm, Jupyter Notebook, Visual Studio Code, DOSBox
 - **Soft Skills:** Team Management, Excellent Communication, Time Management  
