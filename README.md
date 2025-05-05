@@ -62,6 +62,12 @@ _July 2024 - August 2024_
 
 ## PROJECTS  
 
+### **Fake News Detection Web App | [WEB LINK](https://news-detector.streamlit.app/)**
+_April 2025_ 
+- Developed and deployed a machine learning web application that detects fake news using a TF-IDF vectorizer and logistic regression classifier
+- Integrated the trained model and vectorizer into a Streamlit interface for real-time user input and prediction
+- Successfully hosted the app on Streamlit Cloud with persistent model performance across platforms
+
 ### **Customer Segmentation with K-Means Clustering | [LINK](https://github.com/RidaBatool004/Mall-Customers-Segmentation-using-K-Means-Clustering.)**
 _April 2025_ 
 - Segmented customers using K-Means clustering based on age, income, and spending behavior
