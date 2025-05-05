@@ -62,6 +62,13 @@ _July 2024 - August 2024_
 
 ## PROJECTS  
 
+### **Customer Segmentation with K-Means Clustering | [LINK]([https://github.com/RidaBatool004/Personal-Assistant](https://github.com/RidaBatool004/Mall-Customers-Segmentation-using-K-Means-Clustering.)**
+_April 2025_ 
+- Segmented customers using K-Means clustering based on age, income, and spending behavior
+- Conducted EDA and used the Elbow Method to determine the optimal number of clusters
+- Visualized customer segments with 2D/3D plots, providing insights for targeted marketing
+- Utilized Scikit-learn for modeling and Matplotlib/Seaborn for detailed visual analytics
+
 ### **How Recommendations and Reviews Shape Your Buying Choices | Probabilty and Statistics Semester Project**  
 _November 2024 - January 2025_  
 
